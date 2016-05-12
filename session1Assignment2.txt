@@ -1,0 +1,49 @@
+q1. 
+d. all of the above
+
+q-2
+
+a. Hadoop
+
+
+q-3
+a. Nutch
+
+
+q-4
+
+c. HDFS
+
+q-5
+d. b&c
+
+
+q-6
+Yes
+
+q-7
+c. Java
+
+q-8
+a. By using commodity hardware.
+
+q-9
+c. Solr
+
+q-10
+c. Both of these
+
+q-11
+a. petabyte
+
+Q-12
+a. Number of nodes keep changing
+
+Q-13
+a. processing of previously collected jobs in a single batch.
+
+Q-14
+a. Processing data as streams
+
+Q-15
+d. All of above
